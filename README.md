@@ -8,7 +8,7 @@
 
 - SQL Statements  such as SELECT, Joins, Aggregate functions, Joins and Views were used to perform the tasks.
 
--This Project replicates the internal reporting site for the news paper article to know the interest of the user
+- This Project replicates the internal reporting site for the news paper article to know the interest of the user
 
 - The database has the server logs and newspaper articles of the site.
 
